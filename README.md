@@ -11,6 +11,4 @@ DevOps course – NTUST. This page is built with GitHub Pages and updated automa
 5. 📝 Committed to main in [DanielSkarstein/devops-pages-lab](https://github.com/DanielSkarstein/devops-pages-lab/commit/adf05cb0a8d81a3270d163598caaec3aae686023)
 6. 📝 Committed to master in [DanielSkarstein/activity-log](https://github.com/DanielSkarstein/activity-log/commit/cfd4eafddb8b29b26926b67dcf18adff5eb5cd91)
 7. 📝 Committed to master in [DanielSkarstein/activity-log](https://github.com/DanielSkarstein/activity-log/commit/650c2b0c4cc152997b07a7f52c40a5419ef330fe)
-8. 📝 Committed to master in [DanielSkarstein/activity-log](https://github.com/DanielSkarstein/activity-log/commit/881262838fbb0a438eb3485fd1b631c3ab273cd0)
-9. 📝 Committed to master in [DanielSkarstein/activity-log](https://github.com/DanielSkarstein/activity-log/commit/05077e6ab4cbfecf966b1476323f945f75a2f009)
 <!--END_SECTION:activity-->
